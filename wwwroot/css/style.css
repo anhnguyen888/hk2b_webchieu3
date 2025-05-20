@@ -1,0 +1,184 @@
+
+        /* Custom Colors */
+        :root {
+            --primary-color: #f5a623;
+            --secondary-color: #ffd180;
+            --dark-color: #333333;
+            --light-color: #f8f9fa;
+        }
+        
+        body {
+            font-family: Arial, sans-serif;
+        }
+        
+        /* Header Styles */
+        .navbar {
+            background-color: var(--primary-color);
+            padding: 15px 0;
+        }
+        
+        .logo {
+            max-height: 50px;
+        }
+        
+        .search-form {
+            width: 100%;
+            max-width: 500px;
+        }
+        
+        /* Category Navigation */
+        .category-nav {
+            background-color: var(--secondary-color);
+            padding: 10px 0;
+        }
+        
+        .category-nav .nav-link {
+            color: var(--dark-color);
+            font-weight: bold;
+            padding: 8px 15px;
+        }
+        
+        /* Hero Section */
+        .hero-section {
+            background: linear-gradient(90deg, #222 40%, var(--primary-color) 40%);
+            color: white;
+            padding: 50px 0;
+            margin-bottom: 30px;
+        }
+        
+        .hero-content {
+            padding-right: 20px;
+        }
+        
+        .hero-title {
+            font-size: 3rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .hero-image {
+            border-radius: 50%;
+            max-width: 100%;
+            height: auto;
+        }
+        
+        /* Product Sections */
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid var(--primary-color);
+        }
+        
+        .product-card {
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 25px;
+            transition: transform 0.3s;
+        }
+        
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .product-img {
+            height: 200px;
+            background-color: #eee;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: #999;
+        }
+        
+        .product-title {
+            font-weight: bold;
+            margin: 10px 0 5px;
+        }
+        
+        .product-price {
+            color: #e74c3c;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .btn-add-cart {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            width: 100%;
+        }
+        
+        /* Sidebar */
+        .sidebar {
+            background-color: var(--light-color);
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .sidebar-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 40px 0 20px;
+            margin-top: 50px;
+        }
+        
+        .footer-title {
+            font-size: 1.2rem;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .footer-links {
+            list-style: none;
+            padding-left: 0;
+        }
+        
+        .footer-links li {
+            margin-bottom: 10px;
+        }
+        
+        .footer-links a {
+            color: #ddd;
+            text-decoration: none;
+        }
+        
+        .footer-links a:hover {
+            color: var(--primary-color);
+        }
+        
+        .copyright {
+            text-align: center;
+            padding-top: 20px;
+            margin-top: 20px;
+            border-top: 1px solid #444;
+        }
+        
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .hero-section {
+                background: var(--primary-color);
+                text-align: center;
+            }
+            
+            .hero-content {
+                padding-right: 0;
+                margin-bottom: 30px;
+            }
+            
+            .sidebar {
+                margin-top: 30px;
+            }
+        }
+  
