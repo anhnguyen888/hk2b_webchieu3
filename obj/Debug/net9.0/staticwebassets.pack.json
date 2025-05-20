@@ -21,6 +21,34 @@
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1 copy 2.jpg",
+      "PackagePath": "staticwebassets\\images\\p1 copy 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1.jpg",
+      "PackagePath": "staticwebassets\\images\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\images\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\images\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\images\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p5.jpg",
+      "PackagePath": "staticwebassets\\images\\p5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p6.jpg",
+      "PackagePath": "staticwebassets\\images\\p6.jpg"
+    },
+    {
       "Id": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\slide1.png",
       "PackagePath": "staticwebassets\\images\\slide1.png"
     },

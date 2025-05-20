@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "fcGiETPDHSQnMrLnsZIiEgZcyhf6oUOyBJPWsSWzGIE=",
+  "Hash": "RjA8qN9+dL6FD+9ulQ8wgSHdnlNgZHDsvGEnpLzincg=",
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
@@ -1527,6 +1527,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1 copy 2.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p1 copy 2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p1 copy 2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p2.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p3.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p4.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p5.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p6.jpg",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/p6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p83hfsbv4o",
+      "Integrity": "VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\p6.jpg"
     },
     {
       "Identity": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\slide1.png",
@@ -3868,6 +4015,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-lQ/cFRZdccEPtHpxzfp8r42OrBPDXFs2/gN2R/a63R8="
+        }
+      ]
+    },
+    {
+      "Route": "images/p1 copy 2.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1 copy 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p1 copy 2.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1 copy 2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p1 copy 2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p1.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p1.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p2.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p2.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p3.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p3.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p4.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p4.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p5.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p5.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p6.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
+        }
+      ]
+    },
+    {
+      "Route": "images/p6.p83hfsbv4o.jpg",
+      "AssetFile": "C:\\Users\\AnhNguyen\\Documents\\web chieu 3\\MyWebApp\\wwwroot\\images\\p6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:56:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p83hfsbv4o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/p6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwY2BkxIMPi9b5TSdhlhMd7JDMoBhThn2csb1LxvPjM="
         }
       ]
     },

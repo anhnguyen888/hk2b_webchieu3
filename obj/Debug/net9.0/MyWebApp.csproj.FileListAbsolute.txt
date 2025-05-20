@@ -97,3 +97,4 @@ C:\Users\AnhNguyen\Documents\web chieu 3\MyWebApp\obj\Debug\net9.0\MyWebApp.genr
 C:\Users\AnhNguyen\Documents\web chieu 3\MyWebApp\obj\Debug\net9.0\ref\MyWebApp.dll
 C:\Users\AnhNguyen\Documents\web chieu 3\MyWebApp\obj\Debug\net9.0\compressed\2g2s919iio-p9xx1tc3kw.gz
 C:\Users\AnhNguyen\Documents\web chieu 3\MyWebApp\obj\Debug\net9.0\compressed\1f18wda5kx-bh6hig5ikp.gz
+C:\Users\AnhNguyen\Documents\web chieu 3\MyWebApp\obj\Debug\net9.0\MyWebApp.sourcelink.json

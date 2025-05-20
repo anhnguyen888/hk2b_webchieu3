@@ -1,87 +1,65 @@
-﻿@{
+﻿@model MyWebApp.Models.HomeViewModel // Khai báo model cho View này
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <!-- Featured Products Section -->
 <section class="mb-5">
     <h2 class="section-title">Featured Products</h2>
-    <div class="row">
-        <!-- Product Card 1 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 1</h5>
-                    <p class="product-price">$25.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
+    @if (Model.FeaturedProducts != null && Model.FeaturedProducts.Any())
+    {
+        <div class="row">
+            @foreach (var product in Model.FeaturedProducts)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="product-card">
+                        <div class="product-img">
+                            <img src="@Url.Content(product.ImageUrl)" alt="@product.Name" class="img-fluid" />
+                        </div>
+                        <div class="p-3">
+                            <h5 class="product-title">@product.Name</h5>
+                            <p class="product-price">$@product.Price.ToString("0.00")</p>
+                            <p class="product-description">@product.Description</p>
+                            <button class="btn btn-add-cart" data-product-id="@product.Id">Add to Cart</button>
+                        </div>
+                    </div>
                 </div>
-            </div>
+            }
         </div>
-
-        <!-- Product Card 2 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 2</h5>
-                    <p class="product-price">$15.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
-                </div>
-            </div>
-        </div>
-
-        <!-- Product Card 3 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 3</h5>
-                    <p class="product-price">$45.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
-                </div>
-            </div>
-        </div>
-    </div>
+    }
+    else
+    {
+        <p>No featured products available at the moment.</p>
+    }
 </section>
 
 <!-- New Products Section -->
 <section>
     <h2 class="section-title">New Products</h2>
-    <div class="row">
-        <!-- Product Card 1 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 4</h5>
-                    <p class="product-price">$30.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
+    @if (Model.NewProducts != null && Model.NewProducts.Any())
+    {
+        <div class="row">
+            @foreach (var product in Model.NewProducts)
+            {
+                <div class="col-md-4 mb-4"> 
+                    <div class="product-card">
+                        <div class="product-img">
+                            <img src="@Url.Content(product.ImageUrl)" alt="@product.Name" class="img-fluid" />
+                        </div>
+                        <div class="p-3">
+                            <h5 class="product-title">@product.Name</h5>
+                            <p class="product-price">$@product.Price.ToString("0.00")</p>
+                            <p class="product-description">@product.Description</p>
+                            <button class="btn btn-add-cart" data-product-id="@product.Id">Add to Cart</button>
+                        </div>
+                    </div>
                 </div>
-            </div>
+            }
         </div>
-
-        <!-- Product Card 2 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 5</h5>
-                    <p class="product-price">$55.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
-                </div>
-            </div>
-        </div>
-
-        <!-- Product Card 3 -->
-        <div class="col-md-4">
-            <div class="product-card">
-                <div class="product-img">Product Image</div>
-                <div class="p-3">
-                    <h5 class="product-title">Product Name 6</h5>
-                    <p class="product-price">$65.00</p>
-                    <button class="btn btn-add-cart">Add to Cart</button>
-                </div>
-            </div>
-        </div>
-    </div>
+    }
+    else
+    {
+        <p>No new products available at the moment.</p>
+    }
 </section>
